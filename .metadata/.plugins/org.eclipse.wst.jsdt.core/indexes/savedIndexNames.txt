@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\leahe\OneDrive\Bureau\INDUSTRIALISATION_TESTS_HELARY\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2281815118.index
+684716004.index
+2141647080.index
+1988957794.index
+872705793.index
